@@ -37,4 +37,3 @@ The Stock Price Dataset consists of qualitative data for seven companies: Apple 
 - numpy: Numerical operations.
 - matplotlib: Data visualization.
 - seaborn: Statistical visualizations.
--   
